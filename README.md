@@ -1,5 +1,12 @@
 ### Hi there 👋
+## 自我介绍
 
+1.姓名：陈乙鑫
+
+2.github： https://github.com/yayaya970
+
+
+3.兴趣爱好：打球，写字
 <!--
 **yayaya970/yayaya970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
